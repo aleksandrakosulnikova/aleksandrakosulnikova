@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="assets/qa-banner.png" alt="QA banner" style="height: 240px; width: 100%">
-
-</div>
-
 # Обо мне:
 QA Engineer with a solid foundation in both manual and automated testing. I completed a comprehensive QA course covering manual testing, test automation, and core QA processes, followed by hands-on commercial experience testing a real-world product for 2 months. Currently looking for new opportunities in QA — open to full-time roles and collaborations.
 
