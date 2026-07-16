@@ -8,9 +8,9 @@ QA Engineer with a solid foundation in both manual and automated testing. I comp
 
 ## Портфолио
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Чек-листы](https://aleksandrakosulnikova.github.io/documentation/checklists.html)
+  -  [Тест-кейсы](https://aleksandrakosulnikova.github.io/documentation/test-cases.html)
+  -  [Баг-репорты](https://aleksandrakosulnikova.github.io/documentation/bug-reports.html)
 - Коллекция в Postman
   -  [Название проекта](https://ссылочку_сюда)
 - SQL запросы
