@@ -1,6 +1,5 @@
 # About me:
-QA Engineer with a solid foundation in both manual and automated testing. I completed a comprehensive QA course covering manual testing, test automation, and core QA processes, followed by hands-on commercial experience testing a real-world product for 2 months. Currently looking for new opportunities in QA — open to full-time roles and collaborations.
-
+QA Engineer specializing in manual testing of web applications, ready to start working. I completed a QA course covering both manual and automated testing (Playwright, TypeScript), followed by 2 months of hands-on commercial testing experience. Currently looking for new opportunities in QA — open to full-time roles.
 
 
 ## 📄 CV:
