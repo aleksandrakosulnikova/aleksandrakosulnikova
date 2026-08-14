@@ -3,7 +3,7 @@ QA Engineer specializing in manual testing of web applications, ready to start w
 
 
 ## 📄 CV:
-[Здесь будет ссылка на резюме](https://ссылочку_сюда)
+[will be added later](https://ссылочку_сюда)
 
 ## Portfolio
 - Test documentation
@@ -11,9 +11,9 @@ QA Engineer specializing in manual testing of web applications, ready to start w
   -  [Test cases](https://aleksandrakosulnikova.github.io/documentation/test-cases.html)
   -  [Bug reports](https://aleksandrakosulnikova.github.io/documentation/bug-reports.html)
 - Postman collection
-  -  [Название проекта](https://ссылочку_сюда)
+  -  [will be added later](https://ссылочку_сюда)
 - SQL
-  -  [Название проектв](https://ссылочку_сюда)
+  -  [will be added later](https://ссылочку_сюда)
 
 ## 💻 Skills:
 <p align="left">
