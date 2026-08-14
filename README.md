@@ -1,6 +1,7 @@
 # About me:
 QA Engineer specializing in manual testing of web applications, ready to start working. I completed a QA course covering both manual and automated testing (Playwright, TypeScript), followed by 2 months of hands-on commercial testing experience. Currently looking for new opportunities in QA — open to full-time roles.
 
+Site: aleksandrakosulnikova.github.io
 
 ## 📄 CV:
 [Will be added later](https://ссылочку_сюда)
